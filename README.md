@@ -3,16 +3,16 @@
 ### Table of Contents
 - [UKZ Chema Documentation](#ukz-chema-documentation)
     - [Table of Contents](#table-of-contents)
-      - [Member](#member)
-        - [Joining / Registration](#joining--registration)
+    - [Member](#member)
+      - [Joining / Registration](#joining--registration)
 
 
-#### Member
+### Member
 
 A **Member** is a beneficiary of a system who participates in donating and can get donations in case of one of his/her nominees or next of kin passes on.
 
 
-##### Joining / Registration
+#### Joining / Registration
 
 To Join UKZ Chema Association, one must read and understand the [Constitution](https://ukzchema.co.uk/constitution) and should meet the requirements specified.
 
