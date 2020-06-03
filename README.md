@@ -19,7 +19,7 @@
       - [Logout](#logout)
   - [Admin](#admin)
     - [Generating Reports](#generating-reports)
-      - [Sending Notifications](#sending-notifications)
+    - [Sending Notifications](#sending-notifications)
 
 
 ## Member
@@ -111,6 +111,6 @@ There is also a master admin who can add and remove Board Members.
 
 Administrators can generate a pdf report using the **Download PDF** option on respective pages for example [Members Page](https://ukzchema.co.uk/admin/members)
 
-#### Sending Notifications
+### Sending Notifications
 
 System allows administrators to send notifications to all members.
