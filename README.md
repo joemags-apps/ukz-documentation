@@ -20,6 +20,7 @@
   - [Admin](#admin)
     - [Generating Reports](#generating-reports)
     - [Sending Notifications](#sending-notifications)
+  - [Bugs Report 🐛](#bugs-report-)
 
 
 ## Member
@@ -114,3 +115,9 @@ Administrators can generate a pdf report using the **Download PDF** option on re
 ### Sending Notifications
 
 System allows administrators to send notifications to all members.
+
+## Bugs Report 🐛
+
+To submit bugs to the developer, please visit [https://github.com/joemags-apps/ukz-documentation/issues/new](https://github.com/joemags-apps/ukz-documentation/issues/new)
+
+Enter title and description of the error/bug.
