@@ -17,6 +17,9 @@
       - [Notifications](#notifications)
       - [Change Password](#change-password)
       - [Logout](#logout)
+  - [Admin](#admin)
+    - [Generating Reports](#generating-reports)
+      - [Sending Notifications](#sending-notifications)
 
 
 ## Member
@@ -94,4 +97,20 @@ Page to change member password.
 
 Link to logout and exit current member's session
 
+## Admin
 
+Admin refers to a Board Member who can perform tasks like accepting member's application, add obituary, send notifications to all members and to generate reports such as donations report, reserve account reports and deposits report.
+
+![Admin Dashboard.png](img/admin_dashboard.png)
+
+There is also a master admin who can add and remove Board Members.
+
+![Master Admin Dashboard.png](img/master_admin_dashboard.png)
+
+### Generating Reports
+
+Administrators can generate a pdf report using the **Download PDF** option on respective pages for example [Members Page](https://ukzchema.co.uk/admin/members)
+
+#### Sending Notifications
+
+System allows administrators to send notifications to all members.
